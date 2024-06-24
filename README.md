@@ -5,7 +5,7 @@
     <ol>
         <li>
             Clone o repositório:
-            <pre><code>git clone &lt;url-do-repositorio&gt;
+            <pre><code>git clone https://github.com/NathanLisandro/POKEAPI.git;
 cd nest-pokemon-api</code></pre>
         </li>
         <li>
@@ -19,7 +19,7 @@ DB_PORT=3306
 DB_USERNAME=root
 DB_PASSWORD=sua_senha
 DB_DATABASE=nest
-JWT_SECRET=seu_segredo_jwt</code></pre>
+JWT_SECRET=seu_segredo_jwt</code></pre> (pode ser diferente)
         </li>
         <li>
             Configure o banco de dados MySQL e crie as tabelas necessárias:
