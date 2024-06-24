@@ -1,4 +1,3 @@
-// src/user/user.service.ts
 import { Injectable, Inject } from '@nestjs/common';
 import { CreateUserDto, UpdateUserDto } from './dto';
 import { Connection } from 'mysql2/promise';

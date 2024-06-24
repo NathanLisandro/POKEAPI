@@ -1,4 +1,3 @@
-// src/log/log.service.ts
 import { Injectable, Inject } from '@nestjs/common';
 import { Connection } from 'mysql2/promise';
 

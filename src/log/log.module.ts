@@ -1,4 +1,3 @@
-// src/log/log.module.ts
 import { Module, MiddlewareConsumer, RequestMethod } from '@nestjs/common';
 import { LogService } from './log.service';
 import { LoggerMiddleware } from './log.middleware';

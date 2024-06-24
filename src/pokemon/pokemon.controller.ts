@@ -1,4 +1,3 @@
-// src/pokemon/pokemon.controller.ts
 import { Controller, Get, Post, Body, Param, Delete, Put } from '@nestjs/common';
 import { PokemonService } from './pokemon.service';
 import { CreatePokemonDto, UpdatePokemonDto } from './dto';
