@@ -1,6 +1,6 @@
 <body>
     <h1>NestJS Pokemon API</h1>
-    <p>Esta é uma aplicação de exemplo construída com NestJS que fornece uma API para gerenciar usuários e pokémons. A aplicação também inclui autenticação JWT.</p>
+    <p>Esta é uma aplicação construída com NestJS que fornece uma API para gerenciar usuários e pokémons. A aplicação também inclui autenticação JWT.</p>
     <h2>Instalação</h2>
     <ol>
         <li>
@@ -131,9 +131,5 @@ CREATE TABLE logs (
             <strong>DELETE</strong> <code>/pokemon/:id</code>: Deleta um pokémon pelo ID.
         </li>
     </ul>
-    <h2>Contribuição</h2>
-    <p>Sinta-se à vontade para abrir issues e pull requests. Todas as contribuições são bem-vindas!</p>
-    <h2>Licença</h2>
-    <p>Este projeto está licenciado sob a licença MIT. Veja o arquivo <code>LICENSE</code> para mais detalhes.</p>
 </body>
 </html>
