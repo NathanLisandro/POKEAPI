@@ -1,0 +1,12 @@
+// src/pokemon/dto/create-pokemon.dto.ts
+import { IsString, IsNotEmpty } from 'class-validator';
+
+export class CreatePokemonDto {
+  @IsString()
+  @IsNotEmpty()
+  name: string;
+
+  @IsString()
+  @IsNotEmpty()
+  url: string;
+}
